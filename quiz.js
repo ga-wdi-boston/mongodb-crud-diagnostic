@@ -4,11 +4,12 @@
 // this empties out the people collection
 
 var db = new Mongo().getDB('westeros');
-db.houses.remove({});
+db.dropDatabase();
 
 // Question 1
 //
-// Create the following houses, with name and motto fields:
+// Create a collection called houses, and insert the following houses,
+// with name and motto fields:
 //
 // House Arryn, motto "As High as Honor"
 // House Stark, motto "Winter is Coming"
@@ -66,7 +67,3 @@ db.houses.remove({});
 
 
 // your code ends here
-
-db.houses.find({}, {
-  _id: 0
-});
