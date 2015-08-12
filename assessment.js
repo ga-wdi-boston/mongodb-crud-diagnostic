@@ -1,7 +1,6 @@
-// Quiz: An Introduction to MongoDB
+// Assessment: An Introduction to MongoDB
 
 // do not change anything between here and question 1
-// this empties out the people collection
 
 var db = new Mongo().getDB('westeros');
 db.dropDatabase();
@@ -11,9 +10,9 @@ db.dropDatabase();
 // Create a collection called houses, and insert the following houses,
 // with name and motto fields:
 //
-// House Arryn, motto "As High as Honor"
-// House Stark, motto "Winter is Coming"
-// House Targaryen, motto "Fire and Blood"
+// House Arryn, motto 'As High as Honor'
+// House Stark, motto 'Winter is Coming'
+// House Targaryen, motto 'Fire and Blood'
 
 // your code begins here
 

@@ -1,16 +1,20 @@
-# Quiz: An Introduction to MongoDB 
+![General Assembly Logo](http://i.imgur.com/ke8USTq.png)
 
-#### Directions
+# Solo Assessment: An Introduction to MongoDB
 
-* Fork and clone this quiz.
+You have 30 minutes.
 
-* Follow the prompts in the quiz.js file, and complete each question. 
+## Instructions
 
-* You may use any resource you like, other than another person in this classroom, to help you complete the quiz.
+Fork and clone this repository, then
 
-* You can test your work by running `mongo quiz.js`
+Follow the prompts in `assessment.js`.
 
-* Commit and push your changes.
+You may use any resource, other than someone else in the classroom, to help you complete the solo assessment.
 
-* Submit a pull request.
+Test your work by running `mongo assessment.js`.
+
+Commit and push your changes.
+
+Submit a pull request.
 
