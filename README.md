@@ -6,7 +6,7 @@ You have 30 minutes.
 
 ## Instructions
 
-Fork and clone this repository, then
+Fork and clone this repository.
 
 Follow the prompts in `assessment.js`.
 
