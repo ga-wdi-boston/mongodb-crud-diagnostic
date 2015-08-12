@@ -17,11 +17,8 @@ db.dropDatabase();
 
 // your code begins here
 
-
-
-
-
 // your code ends here
+
 
 // Question 2
 //
@@ -37,11 +34,8 @@ db.dropDatabase();
 
 // your code begins here
 
-
-
-
-
 // your code ends here
+
 
 // Question 3
 //
@@ -49,11 +43,8 @@ db.dropDatabase();
 
 // your code begins here
 
-
-
-
-
 // your code ends here
+
 
 // Question 4
 //
@@ -62,8 +53,8 @@ db.dropDatabase();
 
 // your code begins here
 
-
-
-
-
 // your code ends here
+
+
+//Do not change anything after this line
+db.houses.find().forEach(printjson);
