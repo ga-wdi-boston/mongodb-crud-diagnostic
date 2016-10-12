@@ -15,7 +15,7 @@
 1.  Test your work by running `mongo assessment.js`.
 1.  Before the alotted time is up, push to your fork and issue a pull request.
 
-Possible Pitfall: Is `mongod` running?
+Possible Pitfall: Is `mongodb` running?
 
 Your pull request description should contain a "fist to five" for comfort and
 clarity. Additionally, you should mention the resources you used to help you
