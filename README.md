@@ -11,8 +11,8 @@
 1.  Fork and clone this repository.
 1.  Change into the new directory.
 1.  Create and checkout a new branch, named `response`.
-1.  Follow the directions given in [assessment.js](assessment.js).
-1.  Test your work by running `mongo assessment.js`.
+1.  Follow the directions given in [diagnostic.js](diagnostic.js).
+1.  Test your work by running `mongo diagnostic.js`.
 1.  Before the alotted time is up, push to your fork and issue a pull request.
 
 Possible Pitfall: Is `mongodb` running?
